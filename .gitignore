@@ -1,1 +1,5 @@
-*.dll
+logs/*
+!.gitkeep
+node_modules/
+
+.idea/
